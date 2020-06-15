@@ -1,13 +1,13 @@
-package com.cognizant.moviecruiser;
+// package com.cognizant.moviecruiser;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class MoviecruiserApplicationTests {
+// @SpringBootTest
+// class MoviecruiserApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+// 	@Test
+// 	void contextLoads() {
+// 	}
 
-}
+// }
